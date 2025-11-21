@@ -4,9 +4,10 @@
 Software to be used: CST studio suite 2019 (Student edition)
 
 **Design:**
+<img width="664" height="905" alt="image" src="https://github.com/user-attachments/assets/8a8d17bd-1544-4d61-a5db-a9db3489c253" />
+<img width="650" height="871" alt="image" src="https://github.com/user-attachments/assets/3d2b26d7-cb2c-42cb-9ac7-9bdca310a7c9" />
 
 **Mathematical Calculation**
-
 <img width="601" height="420" alt="image" src="https://github.com/user-attachments/assets/b6c74464-e862-4d26-be7c-e76738107067" />
 
 Width of the quarter wave line=1.138 mmWidth of the stripline=2.93 mm
@@ -16,29 +17,22 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 
 **	Design of microstrip line terminated with the desired load**
 
-
 <img width="621" height="185" alt="image" src="https://github.com/user-attachments/assets/908adc01-814f-450c-b969-7e1342681af4" />
-
 
 **S11 characteristics of the microstrip line terminated with the load**
 
-
 <img width="640" height="203" alt="image" src="https://github.com/user-attachments/assets/f7d30519-56c3-4642-b446-7b93a7a1e33b" />
-
 
 **	Design of microstrip line terminated with quarter wave line and the desired load**
 
-
 <img width="642" height="184" alt="image" src="https://github.com/user-attachments/assets/4fcf36a6-131b-45e0-b569-8f50565faf0e" />
-
 
 **	S11 characteristics of the microstrip line terminated with quarter wave line and the desired load**
 
-
 <img width="558" height="162" alt="image" src="https://github.com/user-attachments/assets/863dbdd2-254c-4165-b167-3bdbb331efc7" />
 
-
 **Conclusion:**
+From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
 
 From this experiment we got the bandwidth value of 1.33 Ghz with a impedance matching of 78.42 ohm and also got the width of quarter wave line of 1.138 mm.
 
